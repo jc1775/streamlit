@@ -77,4 +77,4 @@ wcwidth==0.1.9
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.1.0
-python==3.7.7
+python==3.6.9
